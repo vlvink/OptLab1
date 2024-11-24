@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+venv/
+.env/
+*.env
+
+.idea/
+*.iml
+
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
